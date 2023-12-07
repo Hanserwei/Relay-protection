@@ -143,8 +143,8 @@
 %%%=============================标题设置============================%%%
 %---------------------------章节标题设置---------------------------%
 \ctexset{chapter={format+={\hei \zihao{-2}},number=\arabic{chapter},name={第,章},afterskip={30pt},beforeskip={20pt}}}
-\ctexset{section={format+={\hei \zihao{-3}\raggedright}}}
-\ctexset{subsection={format+={\hei \zihao{4}\raggedright}}}
+\ctexset{section={format={\hei \zihao{-3}\raggedright}}}
+\ctexset{subsection={format={\hei \zihao{4}\raggedright}}}
 \ctexset{subsubsection={format={\hei \zihao{-4}\bf\raggedright}}}
 \setcounter{tocdepth}{4}
 \setcounter{secnumdepth}{4}
